@@ -145,4 +145,3 @@ for j in range(2):
         for run in range(len(outAhArr)):
             runDict = tempArr[run]
             plotFigures(dfIp, j, runDict, mode, run*resVar)
-
